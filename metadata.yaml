@@ -1,9 +1,13 @@
 _repo: Rameaun-veljenpoika-Filosofinen-vuorokeskustelu_49498
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Hagfors, Edvin
     gutenberg_agent_id: '45370'
     url: http://www.gutenberg.org/2009/agents/45370
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Diderot, Denis
@@ -16,6 +20,8 @@ creator:
     - http://en.wikipedia.org/wiki/Denis_Diderot
     - http://fr.wikipedia.org/wiki/Denis_Diderot
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49498#Rameaun-veljenpoika-Filosofinen-vuorokeskustelu
 gutenberg_issued: '2015-07-21'
 gutenberg_type: Text
 identifiers:
